@@ -1,0 +1,18 @@
+[
+    {
+        "id" : 1, 
+         "title" : "PAN CARD"
+    },
+    {
+        "id" : 2, 
+         "title" : "ADHAR CARD"
+    },
+    {  
+        "id" : 3, 
+         "title" : "VOTER CARD"
+    },
+    {
+        "id" : 4, 
+         "title" : "DRIVING LICENSE"
+    }
+]
